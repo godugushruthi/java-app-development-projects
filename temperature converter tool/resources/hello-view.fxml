@@ -8,6 +8,8 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
+<!-- with help of fx:controller we will be connecting our fxml file with the HelloController.java so that when we click on buttons it can perform corresponding actions-->
+
 <VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="268.0" prefWidth="297.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.javaintern.projectdemo.HelloController">
       <Pane prefHeight="200.0" prefWidth="200.0">
 
